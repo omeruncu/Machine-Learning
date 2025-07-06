@@ -85,7 +85,10 @@ Classification Model Evaluation
 * Link: [https://github.com/omeruncu/Machine-Learning/blob/main/case_study_2.py](https://github.com/omeruncu/Machine-Learning/blob/main/case_study_2.py)
 
 ### Case 3
-Telco Churn Prediction
+#### Telco Churn Prediction
+Developing a machine learning model that can predict customers who will leave the company.
+
+* Link: [https://github.com/omeruncu/Telco-Customer-Churn](https://github.com/omeruncu/Telco-Customer-Churn)
 
 ### Case 4
 House Price Prediction 
