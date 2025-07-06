@@ -77,8 +77,12 @@ This module covers the following topics:
 ### Case 1 
 Error Evaluation for Regression Models
 
+* Link: [https://github.com/omeruncu/Machine-Learning/blob/main/case_study_1.py](https://github.com/omeruncu/Machine-Learning/blob/main/case_study_1.py)
+  
 ### Case 2
 Classification Model Evaluation
+
+* Link: [https://github.com/omeruncu/Machine-Learning/blob/main/case_study_2.py](https://github.com/omeruncu/Machine-Learning/blob/main/case_study_2.py)
 
 ### Case 3
 Telco Churn Prediction
