@@ -92,6 +92,7 @@ Developing a machine learning model that can predict customers who will leave th
 
 ### Case 4
 House Price Prediction 
+It is desired to carry out a machine learning project on the prices of different types of houses, using a dataset containing the features and prices of each house.
 
 ### Case 5
 Scoutium Talent Hunting Classification with Machine Learning
