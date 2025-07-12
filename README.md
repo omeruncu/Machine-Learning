@@ -45,7 +45,7 @@ This module covers the following topics:
   - ROC Curve
   - LOG Loss
   - Model Validation
-  - 10-Fold Cross Validation
+  - Cross Validation
 - KNN
   - Hiperparameters
 - CART
@@ -77,11 +77,18 @@ This module covers the following topics:
 ### Case 1 
 Error Evaluation for Regression Models
 
+* Link: [https://github.com/omeruncu/Machine-Learning/blob/main/case_study_1.py](https://github.com/omeruncu/Machine-Learning/blob/main/case_study_1.py)
+  
 ### Case 2
 Classification Model Evaluation
 
+* Link: [https://github.com/omeruncu/Machine-Learning/blob/main/case_study_2.py](https://github.com/omeruncu/Machine-Learning/blob/main/case_study_2.py)
+
 ### Case 3
-Telco Churn Prediction
+#### Telco Churn Prediction
+Developing a machine learning model that can predict customers who will leave the company.
+
+* Link: [https://github.com/omeruncu/Telco-Customer-Churn](https://github.com/omeruncu/Telco-Customer-Churn)
 
 ### Case 4
 House Price Prediction 
