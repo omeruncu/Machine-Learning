@@ -45,7 +45,7 @@ This module covers the following topics:
   - ROC Curve
   - LOG Loss
   - Model Validation
-  - 10-Fold Cross Validation
+  - Cross Validation
 - KNN
   - Hiperparameters
 - CART
