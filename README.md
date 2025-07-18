@@ -94,6 +94,8 @@ Developing a machine learning model that can predict customers who will leave th
 #### House Prices - Advanced Regression Techniques
 It is desired to carry out a machine learning project on the prices of different types of houses, using a dataset containing the features and prices of each house.
 
+* Link: [https://github.com/omeruncu/House-Prices-Prediction](https://github.com/omeruncu/House-Prices-Prediction)
+
 ### Case 5
 Scoutium Talent Hunting Classification with Machine Learning
 
